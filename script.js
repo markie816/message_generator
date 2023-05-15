@@ -7,7 +7,7 @@
 3. link it to GitHub
 */
 const kleur = ['rood', 'blauw', 'geel', 'paars', 'zwart', 'bruin', 'wit'];
-const vergelijking = ['je lijkt op', 'je ruikt naar', 'je gedraagt je als', 'je neukt', 'je beste vriend is', 'je kan niet zonder'];
+const vergelijking = ['je lijkt op', 'je ruikt naar', 'je gedraagt je als', 'je zoent', 'je beste vriend is', 'je kan niet zonder'];
 const dier = ['paard', 'varken', 'ezel', 'olifant', 'mier', 'mug', 'stinkdier', 'schildpad', 'hond'];
 
 let bericht = () => {
